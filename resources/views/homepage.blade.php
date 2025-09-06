@@ -11,7 +11,7 @@
         <div id="overlay-effect"></div>
         <!-- Navbar-->
         <nav class="navbar-expand-md navbar fixed-top" id="navbar"><a class="navbar-brand" data-scroll=""
-                href="#home-area">
+                href="https://triumphanya-nga.up.railway.app/">
                 <!-- Navbar Logo-->
                 {{-- <img class="img-fluid" src="/assets/img/favicons/big t-logo.jpg" alt="Logo"> --}}
                 <h1>BigT</h1>
@@ -563,111 +563,6 @@
                                     </div>
                                 </div>
                                 <!-- Skills section-->
-                                {{-- <div class="skills-section single-section">
-                                    <div class="row">
-                                        <div class="col-12 col-md-6">
-                                            <h2 class="section-title">My Skills set</h2>
-                                            <div class="single-skill" data-percentage="85">
-                                                <div class="skill-info">
-                                                    <div>
-                                                        <span class="skill-name">🌐Frontend Development</span>
-                                                        <span class="skill-name">| Responsive & Mobile-First Design
-                                                            <br>| Web
-                                                            Design</span>
-                                                    </div>
-                                                    <span class="skill-percentage mx-auto"></span>
-                                                </div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="78">
-                                                <div class="skill-info">
-                                                    <div>
-                                                        <span class="skill-name">🧠 JavaScript Engineering</span>
-                                                        <span class="skill-name">| DOM manipulation, event handling
-                                                            <br>| SPA
-                                                            Development <br>| ES6+, async logic, modular JS</span>
-                                                    </div>
-                                                    <span class="skill-percentage mx-auto"></span>
-                                                </div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="74">
-                                                <div class="skill-info">
-                                                    <div>
-                                                        <span class="skill-name">🧰 Productivity & Workflow</span>
-                                                        <span class="skill-name">| Project Planning (Notion) <br>| AI
-                                                            Scheduling <br>| Wireframes → Prototypes → Launch →
-                                                            DevOps</span>
-                                                    </div>
-                                                    <span class="skill-percentage mx-auto"></span>
-                                                </div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="70">
-                                                <div class="skill-info">
-                                                    <div>
-                                                        <span class="skill-name">🎨 UI/UX & Product Design</span>
-                                                        <span class="skill-name">| Design Systems, Wireframing <br>|
-                                                            Brand-consistent interfaces <br>| Adobe Suite, Figma, Canva,
-                                                            Google Sites</span>
-                                                    </div>
-                                                    <span class="skill-percentage mx-auto"></span>
-                                                </div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-6">
-                                            <h2 class="section-title">My Tech stack</h2>
-
-                                            <div class="single-skill" data-percentage="90">
-                                                <div class="skill-info"><span class="skill-name">HTML | CSS Libraries
-                                                        | JavaScript</span><span class="skill-percentage"></span></div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="90">
-                                                <div class="skill-info"><span class="skill-name">React JS</span><span
-                                                        class="skill-percentage"></span></div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="95">
-                                                <div class="skill-info"><span
-                                                        class="skill-name">Express.js</span><span
-                                                        class="skill-percentage"></span></div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill" data-percentage="80">
-                                                <div class="skill-info"><span
-                                                        class="skill-name">TypeScript</span><span
-                                                        class="skill-percentage"></span></div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar" aria-valuemin="0"
-                                                        aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> --}}
                                 <div class="skills-section single-section">
                                     <div class="row">
                                         <!-- Left Column -->
@@ -687,8 +582,8 @@
 
                                             <div class="single-skill" data-percentage="90">
                                                 <div class="skill-info d-flex flex-column">
-                                                    <span class="skill-name fw-bold">Frontend & Styling</span>
-                                                    <small class="skill-sub">Tailwind CSS · TypeScript ·
+                                                    <span class="skill-name fw-bold">Frontend Engineering</span>
+                                                    <small class="skill-sub">HTML:5 · Tailwind CSS · TypeScript ·
                                                         JavaScript</small>
                                                 </div>
                                                 <div class="progress skill-progress">
@@ -699,7 +594,7 @@
                                             <div class="single-skill" data-percentage="85">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Backend Frameworks</span>
-                                                    <small class="skill-sub">Express.js · Laravel/PHP</small>
+                                                    <small class="skill-sub">Nest.js · Express.js · Laravel/PHP</small>
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -796,150 +691,6 @@
                 </div>
             </div>
             <!-- Portfolio lightbox-->
-            {{-- <div class="lightbox-wrapper" id="portfolio" data-simplebar>
-                <div class="container">
-                    <div class="lightbox-close">
-                        <div class="close-btn" data-modal-close=""><span class="btn-line"></span></div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="lightbox-content">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="section-heading page-heading">
-                                            <p class="section-description">Showcasing some of my best work</p>
-                                            <h2 class="section-title">Portfolio</h2>
-                                            <div class="animated-bar"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Portfolio section-->
-                                <div class="portfolio-section single-section">
-                                    <div class="row">
-                                        <!-- Filter nav-->
-                                        <div class="col-12">
-                                            <ul class="list-inline filter-control" role="group"
-                                                aria-label="Filter Control">
-                                                <li class="list-inline-item tab-active" data-filter="*">All</li>
-                                                <li class="list-inline-item" data-filter=".brand">Brand</li>
-                                                <li class="list-inline-item" data-filter=".design">Design</li>
-                                                <li class="list-inline-item" data-filter=".photos">Photos</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <!-- Thumbnail list-->
-                                    <div class="portfolio-grid row">
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item"
-                                                href="img/item1.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item-1.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Label Tag Mockup</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item"
-                                                href="img/item2.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item1.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">3D Bag Mockup</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item"
-                                                href="img/item3.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item2.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Box Tee Design</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item"
-                                                href="img/item4.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item4.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Graphic Tee Design</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item"
-                                                href="img/item5.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item5.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">T-Shirt Design</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item"
-                                                href="img/item6.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item6.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Packaging Box Mockup</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item"
-                                                href="img/item5.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item-3.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Accessories Bag Mockup</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item"
-                                                href="img/item5.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/item-2.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Shopping Bag Mockup</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-
-                                        <!-- Single item-->
-                                        <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item"
-                                                href="img/coming-soon.jpg" data-lightbox>
-                                                <div class="portfolio-wrapper"><img class="img-fluid" alt="Item"
-                                                        src="/assets/img/coming-soon.jpg">
-                                                    <div class="item-content">
-                                                        <h6 class="content-title">Coming Soon</h6><span
-                                                            class="content-more">More Info</span>
-                                                    </div>
-                                                </div>
-                                            </a></div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div> --}}
             <div class="lightbox-wrapper" id="portfolio" data-simplebar>
                 <div class="container">
                     <div class="lightbox-close">
@@ -1637,7 +1388,7 @@
                                                     <div class="col-12 form-group form-message">
                                                         <textarea class="form-control" id="contact-message" name="message" placeholder="Message" rows="5" required>{{ old('message') }}</textarea>
                                                     </div>
-<<<<<<< HEAD
+
                                                     <div class="d-flex align-items-center justify-content-between w-100">
                                                         <div class="form-submit">
                                                             <button class="btn button-main button-scheme" id="contact-submit" type="submit">Send Message</button>
@@ -1649,7 +1400,7 @@
                                                             <img class="img-fluid" alt="whatsapp QR code"
                                                                 src="/assets/img/whatsapp qr-code.png"
                                                                 style="max-width:120px;">
->>>>>>> b9dcae5 (Portfolio deployment)
+
                                                         </div>
                                                     </div>
                                                 </div>
