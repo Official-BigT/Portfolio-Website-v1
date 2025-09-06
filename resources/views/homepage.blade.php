@@ -1392,8 +1392,6 @@
                                                     <div class="d-flex align-items-center justify-content-between w-100">
                                                         <div class="form-submit">
                                                             <button class="btn button-main button-scheme" id="contact-submit" type="submit">Send Message</button>
-                                                                id="contact-submit" type="submit">Send
-                                                                Message</button>
                                                             <p class="contact-feedback"></p>
                                                         </div>
                                                         <div>
