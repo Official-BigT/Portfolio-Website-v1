@@ -427,8 +427,8 @@
                                                 <h3 class="plan-type">Business</h3>
                                                 {{-- <h2 class="plan-price">$860/month</h2> --}}
                                                 <ul class="list-unstyled plan-list">
-                                                    <li>Everything to engineer Growth!</li>
-                                                    <li>Full Mobile App Development (React Native / Flutter)</li>
+                                                    <li>Everything to engineer growth and scalability</li>
+                                                    <li>Full Web Development</li>
                                                     <li>CI/CD Pipeline Setup</li>
                                                     <li>Premium and Efficient Backend Architecture</li>
                                                     <li>24/7 Priority Support System</li>
@@ -569,11 +569,19 @@
                                         <div class="col-12 col-md-6">
                                             <h2 class="section-title">My Tech Stack</h2>
 
-                                            <div class="single-skill" data-percentage="95">
+                                            <div class="single-skill" data-percentage="72">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">MERN Stack</span>
-                                                    <small class="skill-sub">MongoDB · Express.js · React.js ·
-                                                        Node.js</small>
+
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">MongoDB · Express.js · React.js ·
+                                                            Node.js</small>
+                                                        <span>72%</span>
+                                                    </div>
+
+
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -583,18 +591,32 @@
                                             <div class="single-skill" data-percentage="90">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Frontend Engineering</span>
-                                                    <small class="skill-sub">HTML:5 · Tailwind CSS ·
-                                                        JavaScript</small>
+
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">HTML:5 · Tailwind CSS ·
+                                                            JavaScript</small>
+                                                        <span>90%</span>
+                                                    </div>
+
+
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
                                                 </div>
                                             </div>
 
-                                            <div class="single-skill" data-percentage="85">
+                                            <div class="single-skill" data-percentage="60">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Backend Frameworks</span>
-                                                    <small class="skill-sub">Nest.js · Express.js · Laravel/PHP</small>
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">Nest.js · Express.js ·
+                                                            Laravel/PHP</small>
+                                                        <span>60%</span>
+                                                    </div>
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -604,7 +626,11 @@
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Other Frameworks and
                                                         Libraries</span>
-                                                    <small class="skill-sub">Next.js · Typescript </small>
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">Next.js · Typescript </small>
+                                                        <span>70%</span>
+                                                    </div>
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -619,18 +645,15 @@
                                             <div class="single-skill" data-percentage="90">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Version Control</span>
-                                                    <small class="skill-sub">Git · GitHub · Branching · PRs</small>
-                                                </div>
-                                                <div class="progress skill-progress">
-                                                    <div class="progress-bar" role="progressbar"></div>
-                                                </div>
-                                            </div>
 
-                                            <div class="single-skill" data-percentage="88">
-                                                <div class="skill-info d-flex flex-column">
-                                                    <span class="skill-name fw-bold">API Development</span>
-                                                    <small class="skill-sub">RESTful APIs · Third-party
-                                                        Integrations</small>
+                                                    <div class="d-flex justify-content-between">
+
+
+
+                                                        <small class="skill-sub">Git · GitHub · Branching · PRs</small>
+                                                        <span>90%</span>
+                                                    </div>
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -640,19 +663,55 @@
                                             <div class="single-skill" data-percentage="85">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">UI/UX Fundamentals</span>
-                                                    <small class="skill-sub">Responsive Design · Wireframing ·
-                                                        Prototypes</small>
+
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">Responsive Design · Wireframing ·
+                                                            Prototypes</small>
+                                                        <span>85%</span>
+                                                    </div>
+
+
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
                                                 </div>
                                             </div>
 
-                                            <div class="single-skill" data-percentage="80">
+                                            <div class="single-skill" data-percentage="78">
+                                                <div class="skill-info d-flex flex-column">
+                                                    <span class="skill-name fw-bold">API Development</span>
+
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">RESTful APIs · Third-party
+                                                            Integrations</small>
+                                                        <span>78%</span>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <div class="progress skill-progress">
+                                                    <div class="progress-bar" role="progressbar"></div>
+                                                </div>
+                                            </div>
+
+
+
+                                            <div class="single-skill" data-percentage="70">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">AI-Enhanced Workflows</span>
-                                                    <small class="skill-sub">AI-assisted Coding · Automation ·
-                                                        Insights</small>
+
+                                                    <div class="d-flex justify-content-between">
+
+                                                        <small class="skill-sub">AI-assisted Coding · Automation ·
+                                                            Insights</small>
+                                                        <span>70%</span>
+                                                    </div>
+
+
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -832,7 +891,7 @@
                                         {{-- Lyric Page --}}
                                         <div class="single-item col-6 col-lg-4 uiux">
                                             <a class="portfolio-item"
-                                                href="https://github.com/Official-BigT/lyrics-page" target="_blank">
+                                                href="https://lyrics-page-blush.vercel.app/" target="_blank">
                                                 <div class="portfolio-wrapper">
                                                     <img class="img-fluid" alt="Lyric page"
                                                         src="/assets/img/ui's/lyric-page.png">
