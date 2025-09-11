@@ -583,7 +583,7 @@
                                             <div class="single-skill" data-percentage="90">
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Frontend Engineering</span>
-                                                    <small class="skill-sub">HTML:5 · Tailwind CSS · TypeScript ·
+                                                    <small class="skill-sub">HTML:5 · Tailwind CSS ·
                                                         JavaScript</small>
                                                 </div>
                                                 <div class="progress skill-progress">
@@ -595,6 +595,16 @@
                                                 <div class="skill-info d-flex flex-column">
                                                     <span class="skill-name fw-bold">Backend Frameworks</span>
                                                     <small class="skill-sub">Nest.js · Express.js · Laravel/PHP</small>
+                                                </div>
+                                                <div class="progress skill-progress">
+                                                    <div class="progress-bar" role="progressbar"></div>
+                                                </div>
+                                            </div>
+                                            <div class="single-skill" data-percentage="70">
+                                                <div class="skill-info d-flex flex-column">
+                                                    <span class="skill-name fw-bold">Other Frameworks and
+                                                        Libraries</span>
+                                                    <small class="skill-sub">Next.js · Typescript </small>
                                                 </div>
                                                 <div class="progress skill-progress">
                                                     <div class="progress-bar" role="progressbar"></div>
@@ -1389,9 +1399,12 @@
                                                         <textarea class="form-control" id="contact-message" name="message" placeholder="Message" rows="5" required>{{ old('message') }}</textarea>
                                                     </div>
 
-                                                    <div class="d-flex align-items-center justify-content-between w-100">
+                                                    <div
+                                                        class="d-flex align-items-center justify-content-between w-100">
                                                         <div class="form-submit">
-                                                            <button class="btn button-main button-scheme" id="contact-submit" type="submit">Send Message</button>
+                                                            <button class="btn button-main button-scheme"
+                                                                id="contact-submit" type="submit">Send
+                                                                Message</button>
                                                             <p class="contact-feedback"></p>
                                                         </div>
                                                         <div>
